@@ -25,6 +25,15 @@ This Power BI dashboard analyzes employee attrition trends and workforce insight
 - KPI Cards and Visualizations
 
 
+## Dashboard Preview
+
+### Attrition Overview
+![Attrition Overview](Attrition-Overview.png)
+
+### Job Role Analysis
+![Job Role Analysis](Jobrole-Analysis.png)
+
+
 ## Files Included
 - Power BI Dashboard (.pbix)
 - Dataset (.csv)
